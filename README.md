@@ -28,3 +28,9 @@ The goal is to build a time series model that can predict short-term future pric
 - matplotlib
 - statsmodels
 - scikit-learn
+
+## 📬 Author
+
+Created by **Aethaya Meesawat**  
+Email: cp.aethaya@gmail.com  
+GitHub: [https://github.com/cpinkz-april](https://github.com/cpinkz-april)
