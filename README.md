@@ -20,3 +20,11 @@ The goal is to build a time series model that can predict short-term future pric
 - Train the ARIMA model
 - Forecast oil prices for the next 12 months
 - Visualize forecast results
+
+## 🧰 Libraries Used
+
+- Python 
+- pandas
+- matplotlib
+- statsmodels
+- scikit-learn
